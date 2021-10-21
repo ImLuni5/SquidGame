@@ -1,0 +1,8 @@
+name: SquidGame
+version: 1.0.0
+main: main.Main
+commands:
+  오징어게임:
+    description: 오징어게임 명령어
+  홀짝:
+    description: 홀짝 명령어
